@@ -1,0 +1,6 @@
+Training Log
+====================
+TEST RESULTS at EPOCH[1/2000]: {'precision': array([0.07627757, 0.05814954]), 'recall': array([0.09446942, 0.1450114 ]), 'ndcg': array([0.10427745, 0.12969546])}
+EPOCH[1/2000] loss0.342-|Sample:0.59| - Time: 2.92 seconds
+EPOCH[2/2000] loss0.254-|Sample:0.50| - Time: 1.61 seconds
+EPOCH[3/2000] loss0.218-|Sample:0.56| - Time: 1.68 seconds
